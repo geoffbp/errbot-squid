@@ -1,0 +1,9 @@
+[Core]
+Name = Squid
+Module = squid
+
+[Documentation]
+Description = A plugin to identify the daily Squid team member
+
+[Python]
+Version = 2+
